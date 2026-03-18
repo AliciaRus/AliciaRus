@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi! I'm Alicia Rus 👋
+
+### I'm a computer engineering student at Iowa State University.
+
+## I'm currently learning...
+* SQL
+* Intro to Data Structures
+* Blender
+
 
 <!--
 **AliciaRus/AliciaRus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
