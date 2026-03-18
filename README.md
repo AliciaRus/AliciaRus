@@ -1,6 +1,6 @@
 ## Hi! I'm Alicia Rus 👋
 
-### I'm a computer engineering student at Iowa State University.
+I'm a computer engineering student at Iowa State University.
 
 ## I'm currently learning...
 * SQL
