@@ -8,7 +8,7 @@ I'm a computer engineering student at Iowa State University.
 * Blender
 
 ## How to reach me:
-* email: aliciaru@iastate.edu
+* aliciaru@iastate.edu
 
 <!--
 **AliciaRus/AliciaRus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
